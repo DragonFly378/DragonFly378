@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragonfly378&show_icons=true&locale=en&layout=compact" alt="dragonfly378" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragonfly378&show_icons=true&locale=en" alt="dragonfly378" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragonfly378&theme=dark&show_icons=true&locale=en" alt="dragonfly378" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragonfly378&" alt="dragonfly378" /></p>
