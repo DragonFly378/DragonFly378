@@ -18,10 +18,8 @@
 - 💬 Ask me about **Reactjs, UI Design, UX Methods, etc**
 
 - 📫 How to reach me **hafichever@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Kg5RPTY8F7RAGiTIsKKtvMoCQFRUboLG/view](https://drive.google.com/file/d/1Kg5RPTY8F7RAGiTIsKKtvMoCQFRUboLG/view)
-
-- ⚡ Fun fact **Humoris**
+  
+- ⚡ Fun fact **I am Humorist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
