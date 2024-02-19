@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/DragonFly378/resume/blob/main/banner.png?raw=true)]
+![MasterHead](https://github.com/DragonFly378/resume/blob/main/banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Muhammad Hafiz Hisbullah</h1>
 <h3 align="center">Is a recent computer science graduate based in Jakarta with a passion for both Frontend Development & Product Designer</h3>
 <img align="right" alt="dragonfly" width="400" src="[https://github.com/DragonFly378/resume/blob/main/banner.png?raw=true](https://github.com/DragonFly378/resume/blob/main/square.png?raw=true)">
