@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://instagram.com/hafizhb28" target="blank"><img src="https://img.shields.io/twitter/follow/hafizhb28?logo=instagram&style=for-the-badge" alt="hafizhb28" /></a> </p>
 
-- 🔭 I’m currently working on **PT Amanah Karya Indonesia**
+- 🔭 I’m currently **Freelancing**
 
-- 🌱 I’m currently learning **Backend Engineer**
+- 🌱 I’m currently learning **Typescript and NextJs**
 
 - 👯 I’m looking to collaborate on **Frontend or UI/UX Design projects**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Reactjs, UI Design, UX Methods, etc**
 
-- 📫 How to reach me **hafichever@gmail.com**
+- 📫 How to reach me **hafizhizbullah28@gmail.com**
   
 - ⚡ Fun fact **I am Humorist**
 
